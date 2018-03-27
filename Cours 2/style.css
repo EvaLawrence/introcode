@@ -1,0 +1,36 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 30px;
+  font-family: 'Titillium Web', sans-serif;
+}
+nav{
+	font-size: 1em;
+	font-family: Calibri;
+}
+h1{
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+  background: black;
+}
+#title{
+	color: black;
+	font-size: 50px; 
+	background: white;
+}
+h2 {
+  font-family: Courier;
+  color: purple;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}

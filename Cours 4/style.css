@@ -72,12 +72,13 @@ a:hover {
   font-weight: lighter;
   text-decoration: none;
 }
- .feature {border: 1px solid #F2F2F2;
-margin: 15px;
-padding: 15px 0;
-text-align: center;
-width: 400px;
-background-color: #41A3C0
+.feature,.defi{
+  border: 1px solid #F2F2F2;
+  background: #FAFAFA;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
 }
 
   #apropos{
@@ -88,8 +89,13 @@ background-color: #41A3C0
   justify-content: center;
 }
 
-.feature p {
-  color: #FAFAFA
+.feature,.defi{
+  border: 1px solid #F2F2F2;
+  background: #FAFAFA;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
 }
 
 nav li {
@@ -113,4 +119,24 @@ nav ul {
 #baseline a:hover {
   position: relative;
   top:1px;
+}
+
+#welcome{
+  background-color: #41A3C0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 50px;
+}
+
+.feature,.defi{
+  border: 1px solid #F2F2F2;
+  background: #FAFAFA;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
 }

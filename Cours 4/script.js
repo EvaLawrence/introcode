@@ -22,7 +22,7 @@ welcome();
 
 function loadChallenges() {
   $.ajax(
-        {url : 'https://api.myjson.com/bins/hhwm3',
+        {url : 'https://api.myjson.com/bins/e1laz',
         type: 'GET',
         dataType: 'json'} 
   )

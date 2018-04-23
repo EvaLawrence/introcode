@@ -72,14 +72,6 @@ a:hover {
   font-weight: lighter;
   text-decoration: none;
 }
-.feature,.defi{
-  border: 1px solid #F2F2F2;
-  background: #FAFAFA;
-  margin: 15px;
-  padding: 15px 0;
-  text-align: center;
-  width: 400px;
-}
 
   #apropos{
   margin: 0 auto;
@@ -132,11 +124,8 @@ nav ul {
  font-size: 50px;
 }
 
-.feature,.defi{
-  border: 1px solid #F2F2F2;
-  background: #FAFAFA;
-  margin: 15px;
-  padding: 15px 0;
-  text-align: center;
-  width: 400px;
+#defis{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
 }
